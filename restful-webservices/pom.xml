@@ -64,6 +64,13 @@
 		</dependency>
 -->
 
+<!--  for basic security -->
+<!-- 		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+		</dependency>
+-->
+
 <!--  for swagger -->
 		<dependency>
 			<groupId>io.springfox</groupId>
